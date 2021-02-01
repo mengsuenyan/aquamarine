@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ResolvedTriplet","ResolvedTriplet represents peer network location with all variables, literals and etc resolved into final string."],["SecurityTetraplet","Describes an origin returned corresponding value."]]});

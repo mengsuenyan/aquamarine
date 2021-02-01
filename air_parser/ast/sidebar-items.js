@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CallArgValue",""],["CallOutputValue",""],["FunctionPart",""],["Instruction",""],["IterableValue",""],["MatchableValue",""],["PeerPart",""]],"struct":[["Call",""],["Fold",""],["Match",""],["MisMatch",""],["Next",""],["Null",""],["Par",""],["Seq",""],["Xor",""]]});

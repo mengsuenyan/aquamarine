@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["__wasm_bindgen_generated_ast",""],["__wasm_bindgen_generated_invoke",""],["__wasm_bindgen_generated_main",""],["ast",""],["invoke",""],["main",""]]});
